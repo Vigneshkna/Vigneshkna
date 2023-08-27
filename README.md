@@ -1,4 +1,4 @@
-<p align="center">Hey there 👋</p>
+<h3 align="center">Hey there 👋</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩‍💻 About Me</p>
+<h4 align="left">👩‍💻 About Me</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🛠 Language and tools</p>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">🔥 My Stats :</p>
+<h4 align="left">🔥 My Stats :</h4>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">Connect with me on</p>
+<h4 align="left">Connect with me on</h4>
 
 ###
 
