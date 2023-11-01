@@ -1,7 +1,3 @@
-<h3 align="center">Hey there 👋</h3>
-
-###
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
