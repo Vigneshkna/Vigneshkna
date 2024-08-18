@@ -26,7 +26,7 @@
 <h4 align="left">📚 Learning</h4>
 
 ###
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65a61a4b8240aa21a4a1481f?variant=dark&roadmaps=prompt-engineering)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65a61a4b8240aa21a4a1481f?variant=dark)](https://roadmap.sh)
 
 <h4 align="left">🛠 Language and tools</h4>
 
